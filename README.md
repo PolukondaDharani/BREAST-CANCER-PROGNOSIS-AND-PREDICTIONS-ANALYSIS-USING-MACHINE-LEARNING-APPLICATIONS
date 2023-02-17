@@ -3,8 +3,7 @@ At present breast cancer became most common cancer among women . With the early 
 
 
 Methodology 
-![image](https://user-images.githubusercontent.com/102342077/219711942-318420e7-3224-42ea-ac61-00382178cfae.png)
-
+![image](https://user-images.githubusercontent.com/102342077/219713467-e6599fce-0507-44fe-9fe4-53f0683f25a8.png)
 Analysis of the Models
 ![image](https://user-images.githubusercontent.com/102342077/219712598-c951f061-8282-40ed-976a-7248787e09ea.png)
 
